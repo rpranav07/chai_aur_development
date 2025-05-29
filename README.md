@@ -2,7 +2,7 @@
 # ☕ chai_aur_devlopment 🍃
 <a href="https://courses.chaicode.com/">
   <p align=center>
-    <img width = "800px" alt="ChaiCode Cohort" src="[assets/cohort_thumbnail.jpg](https://system32.ink/threads/free-chai-code-piyush-garg-web-dev-cohort-1-0.351/)">
+    <img width = "800px" alt="ChaiCode Cohort" src="(https://system32.ink/threads/free-chai-code-piyush-garg-web-dev-cohort-1-0.351/)">
   <p>
 </a>
 <h1 align="center">ChaiCode Cohort</h1>
